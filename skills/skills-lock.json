@@ -82,8 +82,7 @@
     "sync-devops-tickets": {
   "source": "MichaelB14/AI-Project-Skills",
   "sourceType": "github",
-  "skillPath": "skills/.agents/skills/myskills/sync-devops-tickets/SKILL.md",
-  "computedHash": ""
+  "skillPath": "skills/.agents/skills/myskills/sync-devops-tickets/SKILL.md"
 }
 
   }
