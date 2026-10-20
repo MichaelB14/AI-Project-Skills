@@ -78,12 +78,8 @@
       "sourceType": "github",
       "skillPath": "skills/productivity/grilling/SKILL.md",
       "computedHash": "c3b3e67f18495984385413bc6be7e2acbf2139c6cf52ef42abdda7242a791822"
-    },
-    "sync-devops-tickets": {
-  "source": "MichaelB14/AI-Project-Skills",
-  "sourceType": "github",
-  "skillPath": "skills/myskills//SKILL.md"
-}
+    }
+
 
   }
 }
