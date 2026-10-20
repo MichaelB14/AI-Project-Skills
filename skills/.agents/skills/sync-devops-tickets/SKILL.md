@@ -1,6 +1,6 @@
 ---
 name: sync-devops-tickets
-description: Sync open Azure DevOps work items into docs/tickets.md and keep project context so a new session can continue after /clear. Use when refreshing the ticket list, starting work after a clear, or when the agent needs to know which DevOps project this repo maps to.
+description: Sync open Azure DevOps work items into docs/tickets.md and keep project context so a new session can continue. Use when refreshing the ticket list or when the agent needs to know which DevOps project this repo maps to.
 disable-model-invocation: true
 ---
 
