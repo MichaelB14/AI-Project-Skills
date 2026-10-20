@@ -21,6 +21,7 @@ Install these per project (into `.cursor/skills/` or equivalent). They complemen
 | `planning-and-task-breakdown` | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | Break a spec into implementable tasks |
 | `test-driven-development` | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | Drive implementation with tests |
 | `blast-radius` | [pstack](https://github.com/cursor/plugins) | Check what a change might break outside the diff |
+| `triage` | [mattpocock/skills](https://github.com/mattpocock/skills) | Move issues and external PRs through a state machine of triage roles, categorise, verify, grill if needed, and write agent-ready briefs. |
 
 ## Typical workflow
 
